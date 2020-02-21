@@ -1,0 +1,58 @@
+.redcolor {
+	margin: 40px;
+	text-align: center;
+	width: 96%;
+
+
+}
+
+.heading h3 {
+	font-family: sans-serif;
+	text-align: left;
+	margin-left: 100px;
+	font-weight: normal;
+	font-size: 24px;
+}
+
+.bluecolor {
+	margin: 40px;
+	text-align: center;
+	width: 96%;
+}
+
+.greencolor {
+	margin: 40px;
+	text-align: center;
+	width: 96%;
+}
+
+.greycolor {
+	margin: 40px;
+	text-align: center;
+	width: 96%;
+}
+
+.yellowcolor {
+	margin: 40px;
+	text-align: center;
+	width: 96%;
+}
+
+.misccolor {
+	margin: 40px;
+	text-align: center;
+	width: 96%;
+}
+
+.colorbutton {
+	width: 200px;
+	height: 150px;
+	padding: 20px;
+	border-radius: 10px;
+	font-size: 14px;
+	color: #fff;
+}
+
+.button {
+	margin: 10px;
+}
